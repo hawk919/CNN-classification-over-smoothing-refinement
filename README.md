@@ -1,1 +1,1 @@
-The project consists of two Jupyter laptops. The first notebook creates objects from the original image and stores them in the objects folder. The second notebook uses the created objects to reduce over-smoothing.
+The project consists of two Jupyter notebooks. The first notebook creates objects from the original image and stores them in the objects folder. The second notebook uses the created objects to reduce over-smoothing.
